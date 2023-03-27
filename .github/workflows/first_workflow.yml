@@ -11,5 +11,3 @@ jobs:
       - name: Running a simple Github Action
         run: echo "this workflow needs to run"
         
-      - name: simulating error
-        run: echo "error taking place"; exit 1
